@@ -713,7 +713,7 @@ export const MOCK_OPERATORS: Operator[] = [
 
   // GRUPPO EXTRA
   { id: 'DIR-G0-001', name: 'BELLAVIA GIUSEPPE', rank: 'VDLG', group: 'Extra', subgroup: 'G0', qualification: 'DIR', available: true, assignedHours: 0, specializations: [], sede: 'Centrale', tipoPatente: '1' },
-  { id: 'DIR-G3-001', name: 'SANFILIPPO BIAGIO', rank: 'IA', group: 'Extra', subgroup: 'G3', qualification: 'DIR', available: true, assignedHours: 0, specializations: [], sede: 'Centrale', tipoPatente: '1' },
+  { id: 'DIR-G3-001', name: 'SANFILIPPO BIAGIO', rank: 'IA', group: 'Extra', subgroup: 'Extra', qualification: 'DIR', available: true, assignedHours: 0, specializations: [], sede: 'Centrale', tipoPatente: '1' },
   { id: 'CP-G4-001', name: 'BRAGAGNOLO GIANLUCA', rank: 'CR', group: 'Extra', subgroup: 'G4', qualification: 'CP', available: true, assignedHours: 0, specializations: [], sede: 'Centrale', tipoPatente: '3' },
   { id: 'CP-G4-002', name: 'CALVITTO ANTONIO', rank: 'CR', group: 'Extra', subgroup: 'G4', qualification: 'CP', available: true, assignedHours: 0, specializations: [], sede: 'Centrale', tipoPatente: '1' },
   { id: 'CP-G4-003', name: 'DE SIMONE CIRO', rank: 'CS', group: 'Extra', subgroup: 'G4', qualification: 'CP', available: true, assignedHours: 0, specializations: ['AUTOPROT. AMBIENTE ACQUATICO', 'GUIDA SU TERRENO NON PREPARATO', 'PUNTELLAMENTI E COSTRUZIONI', 'TECNICHE PRIMO SOCCORSO'], sede: 'Centrale', tipoPatente: '3' },
